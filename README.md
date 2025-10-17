@@ -28,9 +28,11 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
-![Uploading image.png…]()
+<img width="418" height="354" alt="image" src="https://github.com/user-attachments/assets/ffc92e69-cf2d-4f31-8e96-e158d779859e" />
 MODEL GRAPH:
-![Uploading image.png…]()
+<img width="418" height="354" alt="image" src="https://github.com/user-attachments/assets/f9634f53-8c4f-47b4-8353-cf17e63633fb" />
+
+
 
 
 
